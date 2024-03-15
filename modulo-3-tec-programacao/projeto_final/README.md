@@ -17,10 +17,6 @@ Sobre o projeto avaliador
 
     No futuro, fazer um gerador de entrevistas com IA. 
 
-Log: Parsear o log para converter os dados em colunas e gerar um csv (https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs)
+[ ] Log: Parsear o log para converter os dados em colunas e gerar um csv (https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs)
 
-Dataset: dados dos logs csv do powerbiweb (graficos de criacao de BIs, Views, etc, ao longo do tempo)
-    Gostaria de extrair da API da microsoft, mas se nao der tempo vou pegar os CSV que ja tenho.
-
-    No futuro, publicar no S3 automaticamente (fazer uma Lambda que baixa, transforma e salva no S3 diariamente)
 
