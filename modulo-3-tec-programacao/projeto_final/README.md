@@ -12,10 +12,6 @@ Sobre o projeto avaliador
 [x] Imagem: Gerador de imagens diferentes aleatório para machine learning (image augmentation) - https://www.v7labs.com/blog/data-augmentation-guide
 
 [x] Som: "editor" automatico de conversas (retirador de espaços vazios entre as falas). 
-    Identificar textos - https://thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
-    Identificar textos - https://cloud.google.com/speech-to-text?hl=pt_br
-
-    No futuro, fazer um gerador de entrevistas com IA. 
 
 [ ] Log: Parsear o log para converter os dados em colunas e gerar um csv (https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs)
 
